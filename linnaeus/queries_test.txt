@@ -1,0 +1,44 @@
+#T1	Find protein sequencing data related to bacterial chemotaxis across all databases
+T1	bacterial-chemotaxis
+
+#T2	Search for data of all types related to MIP-2 gene related to biliary atresia across all databases
+T2	MIP2 biliary-atresia
+
+#T3	Search for all data types related to gene TP53INP1 in relation to p53 activation across all databases
+T3	TP53INP1  p53-activation
+
+#T4	Find all data types related to inflammation during oxidative stress in human hepatic cells across all databases
+T4	inflammation-oxidative-stress human-hepatic-cells
+
+#T5	Search for gene expression and genetic deletion data that mention CD69 in memory augmentation studies across all databases
+T5	genetic-deletion CD69  memory-augmentation
+
+#T6	Search for data of all types related to the LDLR gene related to cardiovascular disease across all databases
+T6	LDLR cardiovascular
+
+#T7	Search for gene expression datasets on photo transduction and regulation of calcium in blind D. melanogaster
+T7	(photo-transduction regulation-calcium) (blind-Drosophila-melanogaster)
+
+#T8	Search for proteomic data related to regulation of calcium in blind D. melanogaster
+T8	regulation-calcium blind-Drosophila-melanogaster
+
+#T9	Search for data of all types related to the ob gene in obese M. musculus across all databases
+T9	ob obese-mus-musculus
+
+#T10	Search for data of all types related to energy metabolism in obese M. musculus
+T10	energy-metabolism obese-mus-musculus
+
+#T11	Search for all data for the HTT gene related to Huntington’s disease across all databases
+T11	HTT Huntington’s-disease
+
+#T12	Search for data on neural brain tissue in transgenic mice related to Huntington’s disease 
+T12	neural-brain-tissue transgenic-mice Huntington’s-disease
+
+#T13	Search for all data on the SNCA gene related to Parkinson’s disease across all databases
+T13	SNCA Parkinson’s-disease
+
+#T14	Search for data on nerve cells in the substantia nigra in mice across all databases
+T14	nerve-cells substantia-nigra-mice
+
+#T15	Find data on the NF-κB signaling pathway in MG (Myasthenia gravis) patients 
+T15	NF-κB-signaling-pathway MG Myasthenia-gravis
